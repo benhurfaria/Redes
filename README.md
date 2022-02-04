@@ -1,0 +1,1 @@
+<img src="./assets/redes.gif" height="400"/>
